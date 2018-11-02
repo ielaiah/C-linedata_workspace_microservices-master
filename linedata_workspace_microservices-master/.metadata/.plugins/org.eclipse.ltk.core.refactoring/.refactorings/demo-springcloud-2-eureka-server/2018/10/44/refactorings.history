@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;demo-springcloud-2-eureka-server/src/main/java/com/linedata/DemoSpringcloud2EurekaServerApplication.java&apos; to &apos;MyEurekaServerApplication.java&apos;" description="Rename resource &apos;DemoSpringcloud2EurekaServerApplication.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/linedata/DemoSpringcloud2EurekaServerApplication.java" name="MyEurekaServerApplication.java" stamp="1541029415059" updateReferences="true"/>
+</session>

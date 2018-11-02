@@ -1,0 +1,12 @@
+package com.linedata;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoSpringcloud2EurekaServerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DemoSpringcloud2EurekaServerApplication.class, args);
+	}
+}

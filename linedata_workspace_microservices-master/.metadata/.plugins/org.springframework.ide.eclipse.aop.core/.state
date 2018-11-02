@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="demo-springcloud-1-ribbon-client-sayhello"/>
+<aop-project name="demo-springcloud-0-sayhello"/>
+<aop-project name="demo-springcloud-4-sayhello-eureka"/>
+<aop-project name="demo-springcloud-5-ribbon-eureka-client-sayhello"/>
+<aop-project name="demo-springcloud-2-eureka-server"/>
+<aop-project name="demo-springcloud-3-eureka-client"/>
+<aop-project name="demo-springcloud-6-zuul-gateway"/>
+<aop-project name="demo-springcloud-7-zuul-client-sayhello"/>
+</aop-reference-model>
